@@ -12,9 +12,7 @@
 Connect with me:
 https://twitter.com/chantelvic  https://www.linkedin.com/in/victoria-iria-698b7914a  https://www.instagram.com/chris_droid/
 
-Languages and Tools ![image](https://github.com/EseVic/EseVic/assets/122832362/429550d4-4cf9-4d9b-a512-8ecd08853b01)
-:
+Languages and Tools:
  c css3 html javascript  mysql nodejs  python 
  
- https://www.cprogramming.com/
 -->

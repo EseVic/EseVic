@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm EseVic
-# A passionate Fullstack Developer from Nigeria.
+## A passionate Fullstack Developer from Nigeria.
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning Javascript, Node.Js and Python
@@ -9,18 +9,12 @@
 - ⚡ Fun fact: I derive Joy in coding😄
 👀 I’m interested in building softwares
 
-Connect with me:
-
-![image](https://github.com/EseVic/EseVic/assets/122832362/6247c5ad-5122-4463-a7dc-bb08fb9badcc)
-
-
+### Connect with me:
 https://twitter.com/chantelvic  https://www.linkedin.com/in/victoria-iria-698b7914a  
 
-Languages and Tools:
- c css3 html javascript  mysql nodejs  python 
+### Languages and Tools:
+* c css3 html javascript  mysql nodejs  python 
  
  ![image](https://github.com/EseVic/EseVic/assets/122832362/b6431e93-bd7f-43a8-a6b1-2523d149b8cd)
-
-
  
 -->

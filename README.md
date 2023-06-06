@@ -10,10 +10,10 @@
 👀 I’m interested in building softwares
 
 ### Connect with me:
-https://twitter.com/chantelvic  https://www.linkedin.com/in/victoria-iria-698b7914a  
+https://twitter.com/chantelvic ... https://www.linkedin.com/in/victoria-iria-698b7914a  
 
 ### Languages and Tools:
-* c css3 html javascript  mysql nodejs  python 
+* c .. css3 .. html .. javascript .. sql .. mysql .. nodejs .. python 
  
  ![image](https://github.com/EseVic/EseVic/assets/122832362/b6431e93-bd7f-43a8-a6b1-2523d149b8cd)
  

@@ -13,8 +13,11 @@
 https://twitter.com/chantelvic ... https://www.linkedin.com/in/victoria-iria-698b7914a  
 
 ### Languages and Tools:
-* c .. css3 .. html .. javascript .. sql .. mysql .. nodejs .. python 
+* c * css3 * html * javascript * sql * mysql * nodejs * python 
  
  ![image](https://github.com/EseVic/EseVic/assets/122832362/b6431e93-bd7f-43a8-a6b1-2523d149b8cd)
  
--->
+ 
+ 
+![image](https://github.com/EseVic/EseVic/assets/122832362/d1e314cc-a7d2-4f31-b322-f830b328aa9a)
+

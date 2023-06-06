@@ -11,7 +11,7 @@
 
 Connect with me:
 
-![image](https://github.com/EseVic/[EseVic](https://twitter.com/chantelvic )/assets/122832362/6247c5ad-5122-4463-a7dc-bb08fb9badcc)
+![image](https://github.com/EseVic/EseVic/assets/122832362/6247c5ad-5122-4463-a7dc-bb08fb9badcc)
 
 
 https://twitter.com/chantelvic  https://www.linkedin.com/in/victoria-iria-698b7914a  

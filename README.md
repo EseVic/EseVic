@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/EseVic
 - 📫 You can reach me via esevic111@gmail.com
 - ⚡ Fun fact: I derive Joy in coding😄
-👀 I’m interested in building softwares
+- 👀 I’m seeking opportunities 
 
 ### Connect with me:
 https://twitter.com/chantelvic ... https://www.linkedin.com/in/victoria-iria-698b7914a  

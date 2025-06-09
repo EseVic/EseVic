@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm EseVic
 ## A passionate Fullstack Developer from Nigeria.
 
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning Javascript, Node.Js and Python
+- 🔭 I’m currently working on my personal project
+- 🌱 I’m currently learning Python and Devops
 - 👯 I’m looking to collaborate on any project available
 - 👨‍💻 All of my projects are available at https://github.com/EseVic
 - 📫 You can reach me via esevic111@gmail.com

@@ -28,7 +28,7 @@ A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist!�
 
  - 📱Devops Engineer
  - Kubernetes
- - Jekins
+ - Jenkins
  - Docker
  
 ## Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>

@@ -13,7 +13,7 @@ Hi there👋, I'm EseVic😄
 </h3>
 
 <h2 align="center">
-A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist🩺!
+A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist!🩺
 </h2>
 
  Passionate about technology, learning, and creativity, with interests that go beyond coding. I enjoy exploring public health, community service, travel, and storytelling, while also building skills in software development and IT support. Always curious, adaptable, and eager to contribute to projects that create real impact.

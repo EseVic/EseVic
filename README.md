@@ -66,9 +66,11 @@ A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist!�
   </a>
 </p>
 
-Your support keeps me going… even a little cup of coffee/tea means so much 🥺💖
+Your support keeps me going… even a little cup of coffee/tea means so much☕🥰
 
-<a href="https://buymeacoffee.com/esevic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/esevic" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+</a>
 
 
 <p align="center">

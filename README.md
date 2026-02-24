@@ -21,7 +21,7 @@ A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist!�
   Get in touch with me <a href="https://www.linkedin.com/in/victoria-iria/" target="_blank"><b>here</b></a><br>
     or <a href="mailto:esevic111@gmail.com" target="_blank"><b>email</b></a> me.
 
- <a href="https://drive.google.com/file/d/1E2xTEvkCzywAkOimka8BVp7LZRimW_4-/view?usp=drive_link" target="_blank">Resume</a> .
+ <a href="https://drive.google.com/file/d/1nI0rzeQ2kRR-9I63pMQhAlrRRKTMmEnt/view?usp=sharing" target="_blank">Resume</a> .
 <br>
 
 ## 🌱 I'm currently learning

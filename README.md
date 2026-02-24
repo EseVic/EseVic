@@ -55,8 +55,8 @@ A Software Engineer👩‍💻,  ICT Support🖥️,   and Health Specialist!�
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://your-cdn-or-github-path/ansible-logo.svg"></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/terraform/icon.svgM"></code>
+  <!-- <code><img width="10%" src="https://your-cdn-or-github-path/ansible-logo.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/terraform/icon.svgM"></code> -->
 
  <br />
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
